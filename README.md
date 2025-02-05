@@ -1,9 +1,12 @@
 # SHIELD-INSURANCE
-Internship Project Work
-
 Please read the metadata to know about dataset.
-This is a virtual Internship Pilot Project created for client "Shield Insurance". 
+This is a virtual Internship Pilot Project  created for client "Shield Insurance".
+
+PROBLEM STATEMENT:
+“SHIELD INSURANCE FACED CHALLENGES IN DELIVERING IMPROVED CUSTOMER SOLUTIONS WHILE EXPANDING ITS CUSTOMER BASE ACROSS INDIAN CITIES. THE COMPANY NEEDS TO IDENTIFY EFFECTIVE STRATEGIES TO INCREASE CUSTOMER ACQUISITION AND REVENUE GROWTH”
+ 
 I used PowerBI to generate Insights into customer behavior and revenue trends over time using sales mode and age group.
+Shield Insurance Provided Data from NOV 2022 to APRIL 2023 for this Pilot Project.
 
 Given Recommendations about "Future Scope & Full Scope Implementation" of this project by showing impact of the Pilot Project with limited data. Recommended to use Microsoft Fabric for better control in data refresh, Creating one source of data ensuring Data Governance , ease of scaling, use of one platform to assign all the technical roles .
 
