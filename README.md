@@ -2,8 +2,8 @@
 Please read the metadata to know about dataset.
 This is a virtual Internship Pilot Project  created for client "Shield Insurance".
 
-##PROBLEM STATEMENT:
-“SHIELD INSURANCE FACED CHALLENGES IN DELIVERING IMPROVED CUSTOMER SOLUTIONS WHILE EXPANDING ITS CUSTOMER BASE ACROSS INDIAN CITIES. THE COMPANY NEEDS TO IDENTIFY EFFECTIVE STRATEGIES TO INCREASE CUSTOMER ACQUISITION AND REVENUE GROWTH”
+## PROBLEM STATEMENT:
+### SHIELD INSURANCE FACED CHALLENGES IN DELIVERING IMPROVED CUSTOMER SOLUTIONS WHILE EXPANDING ITS CUSTOMER BASE ACROSS INDIAN CITIES. THE COMPANY NEEDS TO IDENTIFY EFFECTIVE STRATEGIES TO INCREASE CUSTOMER ACQUISITION AND REVENUE GROWTH
  
 I used PowerBI to generate Insights into customer behavior and revenue trends over time using sales mode and age group.
 Shield Insurance Provided Data from NOV 2022 to APRIL 2023 for this Pilot Project.
@@ -12,7 +12,7 @@ Given Recommendations about "Future Scope & Full Scope Implementation" of this p
 
 Explained Full Project Implementation Plan and Timeline & its Business Impact
 
-##Key Insights: 
+## KEY INSIGHTS: 
 * The (31-40) age group generates the highest customer engagement and revenue. However, the number of customers declines with age beyond this point. Lowest customer & revenue generating group is (18-24).
 * Delhi - Highest Customer (11007) & Revenue (401.57M) generating city 
  Indore -Lowest Customer (2096) & Revenue (81.35M) generating city 
@@ -22,7 +22,7 @@ Explained Full Project Implementation Plan and Timeline & its Business Impact
 * Policy ID with Highest Customers: POL4321HEL(Base Coverage Amt(200000), Base Premium Amt(5000))
 * Policy ID with Highest Revenue: POL9221HEL(Base Coverage Amt(2500000), Base Premium Amt(42500))
 
-Recommendations:
+## RECOMMENDATIONS:
 * Focus on high value age group [31-40] with special plans
 * Acquire [18-24] age group customers with affordable plans through educational campaigns
 * Enhance incentives for offline agents to encourage higher engagement and prioritize your products over competitors
